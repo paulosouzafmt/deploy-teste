@@ -1,0 +1,23 @@
+# R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Logs e temporários
+*.log
+*.tmp
+tmp/
+temp/
+.cache/
+
+# Editor
+.vscode/
+.idea/
+
+# Shiny runtime (produção via symlink)
+minhapp/app/www/uploads/
+minhapp/app/www/tmp/
+minhapp/app/www/cache/
+minhapp/app/www/exports/
+minhapp/app/www/results/
